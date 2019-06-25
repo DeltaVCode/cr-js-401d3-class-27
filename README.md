@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/DeltaVCode/cr-js-401d3-class-27.svg?branch=master)](https://travis-ci.com/DeltaVCode/cr-js-401d3-class-27)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
